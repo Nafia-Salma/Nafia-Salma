@@ -41,13 +41,14 @@ Ce projet est une application de prise de notes développée avec Django (backen
 
 
 ### Conception et UX
-L'interface utilisateur (UI) et l'expérience utilisateur (UX) ont été pensées pour être simples et engageantes. Malheureusement, je n'ai pas eu le temps de travailler sur Figma en raison de ma cérémonie de remise de diplôme organisée par la Jadara Foundation. Ce projet a été réalisé en une journée, et je prévois d'apporter plusieurs améliorations par la suite. Pour voir mon travail précédent réalisé avec Figma, vous pouvez consulter ce lien : [lien vers le projet Figma]. Voici la réalisation finale de l'application.
+L'interface utilisateur (UI) et l'expérience utilisateur (UX) ont été pensées pour être simples et engageantes. Malheureusement, je n'ai pas eu le temps de travailler sur Figma en raison de ma cérémonie de remise de diplôme organisée par la Jadara Foundation. Ce projet a été réalisé en une journée, et je prévois d'apporter plusieurs améliorations par la suite. Pour voir mon travail précédent réalisé avec Figma, vous pouvez consulter ce lien : [https://www.figma.com/design/ZpzbQCuGsA6nh94WWXFY7L/MMC-Website?node-id=4-5&t=YtwOfkMcLNx7oEyA-1]. Et voici la réalisation finale de l'application [https://nafia-salma.github.io/mmc/html/team.html].
 
-### Documentation de l'API
+### Espace Admin 
 Un espace administrateur a été mis en place pour gérer efficacement les utilisateurs, les notes et les tags.
       ![Admin](path/to/admin.png)
 
 
+### Documentation de l'API
 Les API de cette application ont été créées à l'aide de Django REST Framework et sont disponibles via Insomnia et Swagger.
 
 1. **Documentation Swagger** :
@@ -61,7 +62,6 @@ Les API de cette application ont été créées à l'aide de Django REST Framewo
    - Toutes les APIs ont été testées dans Insomnia, où les réponses, les codes d'état et la validation des données ont été vérifiés.
    - Des captures d'écran des requêtes et réponses API sont disponibles pour référence.
 
-### Espace Admin 
 
 ### Instructions d'Installation
 
