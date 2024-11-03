@@ -7,11 +7,9 @@ Cette application est une application web fullstack conçue pour gérer des note
 1. [Aperçu du Projet](#aperçu-du-projet)
 2. [Fonctionnalités](#fonctionnalités)
 3. [Conception et UX](#conception-et-ux)
-4. [Instructions d'Installation](#instructions-dinstallation)
-5. [Exécution de l'Application](#exécution-de-lapplication)
-6. [Documentation de l'API](#documentation-de-lapi)
-7. [Captures d'Écran](#captures-decran)
-8. [Observations Techniques](#observations-techniques)
+4. [Documentation de l'API](#documentation-de-lapi)
+5. [Instructions d'Installation](#instructions-dinstallation)
+6. [Exécution de l'Application](#exécution-de-lapplication)
 
 ---
 
