@@ -20,7 +20,7 @@ Ce projet est une application de prise de notes développée avec Django (backen
 ### Fonctionnalités
 
 - **Page d'Accueil** : Affiche une liste de toutes les notes de l'utilisateur connecté. Chaque note apparaît sous forme de carte, et en survolant une note, des icônes pour l'édition ou la suppression s'affichent.
-
+  
 - **Ajouter une Nouvelle Note** : Un bouton en haut de la page d'accueil ouvre une fenêtre pop-up pour créer une nouvelle note, avec des options pour ajouter des tags ou créer de nouveaux tags.
 
 - **Tags** : Les tags sont spécifiques à chaque utilisateur et aident à classer les notes. Les utilisateurs peuvent ajouter ou créer des tags directement dans la fenêtre de création de note.
@@ -34,11 +34,11 @@ Ce projet est une application de prise de notes développée avec Django (backen
 
 - **Gestion des Erreurs** : Une page "Non Trouvée" est affichée pour les URL inexistantes.
 
-### Conception et UX
-
-L'interface utilisateur (UI) et l'expérience utilisateur (UX) ont été pensées pour être simples et engageantes. Malheureusement, je n'ai pas eu le temps de travailler sur Figma en raison de ma cérémonie de remise de diplôme organisée par la Jadara Foundation. Ce projet a été réalisé en une journée, et je prévois d'apporter plusieurs améliorations par la suite. Pour voir mon travail précédent réalisé avec Figma, vous pouvez consulter ce lien : [lien vers le projet Figma]. Voici la réalisation finale de l'application.
-
-De plus, un espace administrateur a été mis en place pour gérer efficacement les utilisateurs, les notes et les tags.
+> ### Conception et UX
+>
+> L'interface utilisateur (UI) et l'expérience utilisateur (UX) ont été pensées pour être simples et engageantes. Malheureusement, je n'ai pas eu le temps de travailler sur Figma en raison de ma cérémonie de remise de diplôme organisée par la Jadara Foundation hier pendant toute la journée. Ce projet a été réalisé en une journée, et je prévois d'apporter plusieurs améliorations par la suite. Pour voir mon travail précédent réalisé avec Figma, vous pouvez consulter ce lien : [lien vers le projet Figma]. Voici la réalisation finale de l'application.
+> 
+> De plus, un espace administrateur a été mis en place pour gérer efficacement les utilisateurs, les notes et les tags.
 
 ### Documentation de l'API
 
